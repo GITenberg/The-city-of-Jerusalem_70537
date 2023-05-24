@@ -1,5 +1,8 @@
 _repo: The-city-of-Jerusalem_70537
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70537-h/images/cover.jpg
 creator:
   author:
     agent_name: Conder, C. R. (Claude Reignier)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42313
     wikipedia: https://en.wikipedia.org/wiki/Claude_Reignier_Conder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70537#The-city-of-Jerusalem
 gutenberg_issued: '2023-04-13'
 identifiers:
   gutenberg: '70537'
